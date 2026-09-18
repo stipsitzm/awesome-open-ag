@@ -19,3 +19,4 @@ Ekylibre is a simple enterprise management web application for farmers and small
 * [Tania](https://github.com/Tanibox/tania-core) - Tania is a free and open source farming management system for everyone. You can manage your areas, reservoirs, farm tasks, inventories, and the crop growing progress.
 * [FarmData](https://farmdata.dickinson.edu/guest.php) - FarmData is a free open farm management tool to help operate a farm.
 * [ISOBlue](https://www.isoblue.org/) - ISOBlue is a open source solution for connected farm machinery.
+* [OpenFarmPlanner](https://github.com/OpenFarmPlanner/planner) - OpenFarmPlanner is a free and open-source crop planning tool, with table-based editing and a shared crop library. (Beta)
